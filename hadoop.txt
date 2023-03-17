@@ -1,0 +1,7 @@
+hdfs namenode -format
+cd \
+cd hadoop
+cd sbin
+start-dfs.cmd
+start-yarn.cmd
+
